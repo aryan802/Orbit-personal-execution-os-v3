@@ -1,8 +1,8 @@
-# Orbit V3 — Local-first graph workspace
+# Orbit V3.2 — Local-first graph workspace
 
 A small, local-first thinking tool for connected ideas, planning, and an idea inbox. It is designed to be understandable and runnable by other people, not tied to one user's account.
 
-## What V3 includes
+## What V3.2 includes
 
 - **Graph Studio:** create multiple independent graphs, each with its own nodes and relationships. Examples include learning maps, personal cash flow, decision analysis, causal diagrams, and reminders.
 - **Sketch-like canvas:** bright paper surface, dotted grid, hand-drawn-style cards, draggable nodes, pan/zoom, minimap, and connectable handles.
@@ -82,3 +82,9 @@ docker-compose.yml    Local run configuration
 ## License
 
 Choose a license before publishing this repository publicly. MIT is a common choice for a small open-source utility, but select one that matches your intent.
+
+
+## V3.2 changes
+- Added real React Flow connection handles on nodes. Drag from one node handle to another to create a relationship.
+- Select a node and use **Delete selected node** in the sidebar or toolbar. Deleting a node also deletes its connected edges. Select an edge and press Delete/Backspace to remove it.
+- Added a light/dark theme toggle in the top bar. Theme choice is stored locally.
