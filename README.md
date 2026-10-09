@@ -81,4 +81,4 @@ docker-compose.yml    Local run configuration
 
 ## License
 
-MIT
+MIT license 2026
