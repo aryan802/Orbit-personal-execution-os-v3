@@ -1,0 +1,7 @@
+services:
+  orbit:
+    build: .
+    container_name: orbit-v3
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
