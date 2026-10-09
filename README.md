@@ -81,4 +81,4 @@ docker-compose.yml    Local run configuration
 
 ## License
 
-Choose a license before publishing this repository publicly. MIT is a common choice for a small open-source utility, but select one that matches your intent.
+MIT
