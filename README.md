@@ -1,4 +1,4 @@
-# Orbit V3 — Local-first graph workspace
+# Orbit V3.1 — Local-first graph workspace
 
 A small, local-first thinking tool for connected ideas, planning, and an idea inbox. It is designed to be understandable and runnable by other people, not tied to one user's account.
 
